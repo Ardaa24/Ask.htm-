@@ -173,7 +173,22 @@ body {
     color: #999;
     font-size: 14px;
 } 
+#end-text {
+    text-align: right;
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 1px rgba(32, 10, 27, 0.329);
+    font-size: 20px;
+    transition: color 0.5s;
+    transition: transform 0.3s ease;
+    cursor: none;
+}
 
+
+#end-text:hover {
+    transform: translateY(-3px);
+    color: #861ca7;
+    
+}
 
 .footer {
     background: linear-gradient(135deg, #4b474934, #1f1d1e38);
