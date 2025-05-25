@@ -3,6 +3,8 @@ Manitalarınzı şımartıcak bir hediye.
 Kalbe tıklandığında şifre paneli açılır. 
 Belirlenen şifre girildiğinde fotoğraf albümüne aktarılır. 
 Otuz adet fotoğraf alanı bulunuyor, arttırılıp azaltılabilir.
+E tabi şifreyi kaynak kodlardan görebilirler fakat kişiye özel sayfa yapacağınızdan isteyen php koduna da gözatıp JS dosyasındaki şifrelemeyi iptal edebilir. 
+PHP den çok anlamadığımdan ben yapmadım.
 
 
 ![bir](https://github.com/user-attachments/assets/e9b03e58-c53d-4db6-97f4-b0efa8837532)
