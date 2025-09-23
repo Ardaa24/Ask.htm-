@@ -78,13 +78,3 @@ Bu proje kendimce kodlanmış ve MIT Lisansı ile lisanslanmıştır.
 ![dort](https://github.com/user-attachments/assets/f73da016-02ea-4339-973c-485155d20fca)
 
 
-🗂 Dosya Yapısı
-
-Ask.htm-/
-│
-├── README.md
-├── index.html        → Giriş / Kalp simgesi & şifre paneli
-├── giris.php         → Şifre kontrolü / yönlendirme
-├── Assets/           → CSS, JS, görseller vb.
-├── foto/             → Albümdeki fotoğraflar
-└── js/               → JavaScript dosyaları
