@@ -35,7 +35,7 @@ Ask.htm, sevdiklerine özel, interaktif bir hediye projesidir. Kalbe tıklandı�
 
 4. Fotoğraf alanlarını değiştir/çoğalt/azaltmak istiyorsan, HTML/JS dosyalarında ilgili alan sayısını düzenle.
 
-⚠️ Uyarılar & Güvenlik
+##⚠️ Uyarılar & Güvenlik
 
 Şifre gizliliği: JS dosyaları kullanıcı tarafından görülebileceğinden, kritik şifre bilgilerini burada saklamak güvenli değildir.
 
@@ -43,7 +43,7 @@ PHP kodu üzerinde daha gelişmiş şifreleme / sunucu tarafı doğrulama eklenm
 
 Kişiye özel kullanım için daha sıkı kontroller yapılmalıdır.
 
-🔧 Teknolojiler & Yapı
+##🔧 Teknolojiler & Yapı
 
 HTML / CSS / JavaScript — ön yüz (front-end)
 
@@ -53,7 +53,7 @@ Fotoğraf alanları dinamik olarak JS ve/veya PHP ile kontrol ediliyor.
 
 Tasarım ve UI basit, amaca odaklı.
 
-🚀 Geliştirme Fikirleri
+##🚀 Geliştirme Fikirleri
 
 Kullanıcı kaydı / oturum sistemi ekleyerek şifrenin daha güvenli tutulması.
 
@@ -64,7 +64,7 @@ Fotoğraf yükleme özelliği ekleyerek dinamik albüm oluşturma.
 Mobil uyum ve görsel düzenlemelerin iyileştirilmesi.
 
 
-🗂 Dosya Yapısı
+## 🗂 Dosya Yapısı
 Ask.htm-/
 │
 ├── README.md
@@ -74,13 +74,13 @@ Ask.htm-/
 ├── foto/             → Albümdeki fotoğraflar
 └── js/               → JavaScript dosyaları
 
-📜 Lisans
+##📜 Lisans
 
 Bu proje kendimce kodlanmış ve MIT Lisansı ile lisanslanmıştır.
 
 ☑️ Umarım sevdiklerine vereceğin hediye hem anlamlı olur hem de güzel çalışır 💌
 
-<< Görseller >>
+##<< Görseller >>
 
 ![bir](https://github.com/user-attachments/assets/e9b03e58-c53d-4db6-97f4-b0efa8837532)
 ![iki](https://github.com/user-attachments/assets/74723f04-0648-4b6a-b0a6-6182348f94a6)
