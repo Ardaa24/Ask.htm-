@@ -80,7 +80,7 @@ Bu proje kendimce kodlanmış ve MIT Lisansı ile lisanslanmıştır.
 
 ☑️ Umarım sevdiklerine vereceğin hediye hem anlamlı olur hem de güzel çalışır 💌
 
-##<< Görseller >>
+## Görseller
 
 ![bir](https://github.com/user-attachments/assets/e9b03e58-c53d-4db6-97f4-b0efa8837532)
 ![iki](https://github.com/user-attachments/assets/74723f04-0648-4b6a-b0a6-6182348f94a6)
