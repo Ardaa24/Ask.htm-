@@ -64,16 +64,6 @@ Fotoğraf yükleme özelliği ekleyerek dinamik albüm oluşturma.
 Mobil uyum ve görsel düzenlemelerin iyileştirilmesi.
 
 
-🗂 Dosya Yapısı
-Ask.htm-/
-│
-├── README.md
-├── index.html        → Giriş / Kalp simgesi & şifre paneli
-├── giris.php         → Şifre kontrolü / yönlendirme
-├── Assets/           → CSS, JS, görseller vb.
-├── foto/             → Albümdeki fotoğraflar
-└── js/               → JavaScript dosyaları
-
 ## Lisans
 
 Bu proje kendimce kodlanmış ve MIT Lisansı ile lisanslanmıştır.
@@ -86,3 +76,15 @@ Bu proje kendimce kodlanmış ve MIT Lisansı ile lisanslanmıştır.
 ![iki](https://github.com/user-attachments/assets/74723f04-0648-4b6a-b0a6-6182348f94a6)
 ![uc](https://github.com/user-attachments/assets/b993b3ac-c2f5-4c64-8011-ecc750c4e8ba)
 ![dort](https://github.com/user-attachments/assets/f73da016-02ea-4339-973c-485155d20fca)
+
+
+🗂 Dosya Yapısı
+
+Ask.htm-/
+│
+├── README.md
+├── index.html        → Giriş / Kalp simgesi & şifre paneli
+├── giris.php         → Şifre kontrolü / yönlendirme
+├── Assets/           → CSS, JS, görseller vb.
+├── foto/             → Albümdeki fotoğraflar
+└── js/               → JavaScript dosyaları
