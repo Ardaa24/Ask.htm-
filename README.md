@@ -64,7 +64,7 @@ Fotoğraf yükleme özelliği ekleyerek dinamik albüm oluşturma.
 Mobil uyum ve görsel düzenlemelerin iyileştirilmesi.
 
 
-## 🗂 Dosya Yapısı
+🗂 Dosya Yapısı
 Ask.htm-/
 │
 ├── README.md
